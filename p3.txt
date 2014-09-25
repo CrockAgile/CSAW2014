@@ -1,0 +1,6 @@
+FORCE
+
+
+this time we will give you more plaintext to work with you will probably find that having extra content that is ascii makes this one more solvable
+it would be solvable without that but we will make sure to give lots of text just to make sure that we can handle it
+i wonder how much will be required lets put the magic phrase for the next level in the middle right here nothingtricky o know more text to make sure that it is solvable i should probably just put in some nursery rhyme or something mary had a little lamb little lamb little lamb mary had a little lamb whose fleeze was white as snow i dont want to make this harder than it needs to be if youve solved a lot of simple crypto challenges you probably already have the code and will breeze right through it if it helps most of the plaintext is static at each of the levels im not a masochist the funny thing is that depending on which random key you get that poem might be exactly the right offset to successfully mount an attack well see little bit more little bit more there
